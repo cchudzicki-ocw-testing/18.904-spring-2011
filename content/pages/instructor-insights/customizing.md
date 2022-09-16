@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Snowden describes some of the ways in which he customized
+  the course structure for the Spring 2011 offering of Seminar in Topology.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

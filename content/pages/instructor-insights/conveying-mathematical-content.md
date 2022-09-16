@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Snowden explains the mathematical goals of this
+  undergraduate math seminar course and the implications of teaching mathematical
+  content under this course structure.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes guidelines for writing the final paper for the
+  course, LaTeX guidelines, a list of possible paper topics, and sample final papers
+  written by students in the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Paper

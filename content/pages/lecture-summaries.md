@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a list of the topics presented in class sessions,
+  brief summaries and references for each session, and information on the two required
+  texts for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

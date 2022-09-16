@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Snowden shares strategies he used for helping students
+  learn to present mathematics.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

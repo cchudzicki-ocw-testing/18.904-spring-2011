@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section includes comments by the instructor on his experience teaching
+  this course and recommendations for people who might teach it in the future.    '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Teaching Notes

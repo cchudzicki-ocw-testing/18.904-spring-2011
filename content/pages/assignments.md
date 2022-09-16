@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for problem sets, the three problem
+  sets required for the course, and solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

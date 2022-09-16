@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Snowden describes some aspects of mathematical writing
+  that students needed to learn as well as the role of a revision cycle in improving
+  student writing.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
